@@ -881,7 +881,7 @@ margin-bottom: 60px;
 }
 .item4{
     width: 23%;
-    background-image: url('./images/s4.jpeg');
+    background-image: url('../images/s4.jpeg');
     background-color: #F0F0F0;
     background-size: contain;
     background-repeat: no-repeat;
